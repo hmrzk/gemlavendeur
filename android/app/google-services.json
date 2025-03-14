@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "446884006303",
+    "project_id": "gemla-vendeur",
+    "storage_bucket": "gemla-vendeur.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446884006303:android:b1fe4aa7799ffc5a1755aa",
+        "android_client_info": {
+          "package_name": "com.gemla.vendeur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446884006303-bjtfkcntnv04muaoa68gjuj99iuqfpbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA18JtfJt-zWgalqom1-rk-QUYMNUgwZVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446884006303-bjtfkcntnv04muaoa68gjuj99iuqfpbc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "446884006303-5gf6rqbtb76ffc2slis2935alvbudra6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gemla.vendeur"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

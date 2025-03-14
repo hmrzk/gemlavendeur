@@ -2,13 +2,11 @@
 
 class AppConstants {
   static const String app_name = 'Seller App eShop';
-  static const String packageName = 'wrteam.seller.multivendor';
+  static const String packageName = 'com.gemla.vendeur';
   static const String iosPackage = 'eshop.seller.multivendor';
   static const String title = 'eShop Multi-Vendor - Seller';
   //please add your panel's API base URL here (you can find from settings->client APIs)
-  static const String baseUrl =
-      'PLACE_YOUR_HOST_URL_HERE';
-  static const String chatBaseUrl =
-      'PLACE_YOUR_CHAT_BASE_URL_HERE'; 
+  static const String baseUrl = 'PLACE_YOUR_HOST_URL_HERE';
+  static const String chatBaseUrl = 'PLACE_YOUR_CHAT_BASE_URL_HERE';
   static const String defaultLanguage = 'en';
 }
